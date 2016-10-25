@@ -1,4 +1,12 @@
 Bonjour, voici les idées de futurs projets :
 
 * Créer un jeux-vidéo
+
+
+
+* Maitriser Java pour créer applis android
+
+
+
+
 * Maitriser UE4
